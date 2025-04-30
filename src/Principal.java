@@ -8,7 +8,7 @@ public class Principal {
         // Instanciamos nuestro servicio de consulta de películas
         ConsultaPelicula consulta = new ConsultaPelicula();
 
-        System.out.println("Escriba el numero de la pelicula de Star Wars que quiere consultar:");
+        System.out.println("Escriba  el numero de la pelicula de Star Wars que quiere consultar:");
         try {
             // Leemos la línea ingresada y la convertimos a Integer
             var numeroDePelicula = Integer.valueOf(lectura.nextLine());

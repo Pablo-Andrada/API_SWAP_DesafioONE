@@ -4,17 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9fb6dc7c-5971-4948-945e-350a14269685" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Andrada_Pablo_ONE_DesafioAPISWAP.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ConsultaPelicula.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/GeneradorDeArchivo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Pelicula.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Principal.java" afterDir="false" />
+    <list default="true" id="9fb6dc7c-5971-4948-945e-350a14269685" name="Changes" comment="Funcionando,faltan mejoras">
+      <change beforePath="$PROJECT_DIR$/src/Principal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Principal.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,6 +52,19 @@
       <option name="presentableId" value="Default" />
       <updated>1745967626270</updated>
     </task>
+    <task id="LOCAL-00001" summary="Funcionando,faltan mejoras">
+      <option name="closed" value="true" />
+      <created>1745972535713</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1745972535713</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Funcionando,faltan mejoras" />
+    <option name="LAST_COMMIT_MESSAGE" value="Funcionando,faltan mejoras" />
   </component>
 </project>
